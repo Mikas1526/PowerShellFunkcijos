@@ -55,8 +55,7 @@ Name Value
 X    -0
 Y    0
 .LINK
-Autorius: https://github.com/Mikas1526
-
+https://github.com/Mikas1526
 #>
 function Solve-Quadratic
 {
